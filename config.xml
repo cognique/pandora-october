@@ -1,18 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<widget id= "uk.co.cognique.pandora"
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "943RR8LQCK.co.uk.cognique.pandora"
         versionCode="10"
-        version= "0.0.1">
+        version   = "1.0.0">
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Pandora App</name>
+    <name>Pandora Dress Agency App</name>
 
     <description>
-        Pandora Dress Agency Game
+        A Designer Label Game 
     </description>
 
-    <author href="http://cognique.co.uk" email="apps@cognique.co.uk">
-        Ed Williams
+    <author href="https://cognique.co.uk" email="apps@cognique.co.uk">
+        Cognique
     </author>
 
 </widget>
